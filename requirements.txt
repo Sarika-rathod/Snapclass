@@ -1,24 +1,10 @@
 streamlit
-# Utilitites 
-numpy
-pandas
-
-# FACE RECOGNITION
-scikit-learn
-dlib-bin
-git+https://github.com/ageitgey/face_recognition_models
-setuptools<70.0.0
-
-
 supabase
-bcrypt
-
-
-
-segno
-pillow
-
-
-
-librosa
-resemblyzer
+numpy
+opencv-python-headless
+face-recognition
+face-recognition-models
+dlib
+setuptools
+scikit-learn
+pandas
